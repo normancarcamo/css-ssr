@@ -1,0 +1,14 @@
+{
+  "name": "css-ssr",
+  "version": "0.0.1",
+  "author": "Norman Carcamo @playscode",
+  "description": "Hook css for server side in node.js",
+  "main": "index.js",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:normancarcamo/css-ssr.git"
+  },
+  "keywords": ["css","ssr","css-ssr","hookcss","hook"],
+  "license": "Apache-2.0"
+}
