@@ -1,6 +1,6 @@
 # css-ssr
 <div align="center">
-  <img width="200" height="200" style="margin: auto;display: block;"
+  <img  align="center" width="200" height="200" style="margin: auto;display: block;"
     src="https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_400x400.png">
   <h1 align="center">Hook css for Node.js useful with rhm</h1>
   <h3>A hook for nodejs that lets you import styles when you are compiling webpack from server, it also works with react hot module replacement.</h3>
@@ -20,7 +20,7 @@ Use the hook inside your server entry point.
 
 **server.js**
 ```js
-import './utils/pollyfilRequire'
+import 'css-ssr'
 import express from 'express'
 import http from 'http'
 // ...
